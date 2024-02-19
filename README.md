@@ -11,4 +11,9 @@
 ## Terminal Commands
 
 1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install local dependencies.
+2. Download the repo
+3. Open Terminal and navigate to the folder "cd ~/downloads/business-app1"
+4. Run `yarn install` or `npm install` to install local dependencies.
+5. Run `yarn start` or `npm start`
+6. App should run automatically, if not open "http://localhost:3000" in browser
+   
